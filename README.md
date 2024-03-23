@@ -28,7 +28,7 @@ The Administrative Tasks repository is a comprehensive resource hub designed to 
 
 <br>
 
-### Project Goals:
+### Project Goals
 
 - Empower Linux system administrators with the resources and tools needed to efficiently manage and maintain Linux systems in diverse environments.
 - Provide practical solutions, automation scripts, and best practices for automating routine administrative tasks, improving operational efficiency, and reducing manual overhead.

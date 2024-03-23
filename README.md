@@ -2,6 +2,7 @@
 
 The Administrative Tasks repository is a comprehensive resource hub designed to empower Linux system administrators with essential tools, scripts, and documentation to streamline common administrative tasks. This project aims to provide practical solutions, automation scripts, and best practices for efficiently managing and maintaining Linux systems in various environments.
 
+<br>
 
 ### Key Features and Components
 

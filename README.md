@@ -37,3 +37,7 @@ The Administrative Tasks repository is a comprehensive resource hub designed to 
 <br>
 
 By leveraging the resources and expertise provided in the Administrative Tasks repository, Linux system administrators can optimize their workflows, enhance system reliability and security, and focus on strategic initiatives to drive business growth and innovation.
+
+<br>
+
+Linux Distribution: Ubuntu

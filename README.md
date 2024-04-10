@@ -45,4 +45,4 @@ By leveraging the resources and expertise provided in the Administrative Tasks r
 
 <br>
 
-Linux Distribution: Ubuntu
+Linux Distribution: CentOS 8

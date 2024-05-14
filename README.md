@@ -41,4 +41,4 @@ The Administrative Tasks repository is a comprehensive resource hub designed to 
 
 <br>
 
-Linux Distribution: CentOS 8
+Linux Distribution: Ubuntu

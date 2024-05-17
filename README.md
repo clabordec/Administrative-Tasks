@@ -43,4 +43,4 @@ The Administrative Tasks repository is a comprehensive resource hub designed to 
 
 Linux Distribution: Ubuntu
 <br>
-Version: 
+Version: Ubuntu 22.04
